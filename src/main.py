@@ -6,7 +6,7 @@ import plotly.express as px
 
 __author__ = "Sarsiz Chauhan"
 
-img_name="kneau"
+img_name="keanu"
 img_path = os.path.join(os.getcwd(), 'images/{}.jpg'.format(img_name))
 # img_path = os.path.join(os.getcwd(), 'images/saz copy.jpg')
 
@@ -52,4 +52,4 @@ fig.update_layout(
 )
 
 fig.show()
-fig.write_image('output/{}_plotted_symb.jpeg'.format(img_name))
+fig.write_image('output/{}_plotted_symb.png'.format(img_name))
