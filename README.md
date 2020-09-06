@@ -13,3 +13,5 @@ Put your Image in images folder and run the script.
 <br>
 
 <h5>That's it</h5>
+
+![Keanu Scatter Output](https://raw.githubusercontent.com/sarsiz/py_image_art/master/output/keanu_plotted_symb.png)
