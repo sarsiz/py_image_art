@@ -14,4 +14,13 @@ Put your Image in images folder and run the script.
 
 <h5>That's it</h5>
 
-![Keanu Scatter Output](https://raw.githubusercontent.com/sarsiz/py_image_art/master/output/keanu_plotted_symb.png)
+<div>
+    <div>
+        <h3>Input</h3>
+        ![Keanu Input](https://raw.githubusercontent.com/sarsiz/py_image_art/master/images/keanu.jpg)
+    </div>
+    <div>
+        <h3>Output</h3>
+        ![kneau_plotted](https://github.com/sarsiz/py_image_art/blob/master/output/kneau_plotted_symb.jpeg) 
+    </div>
+</div>
